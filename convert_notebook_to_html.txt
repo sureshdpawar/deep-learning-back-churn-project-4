@@ -1,0 +1,7 @@
+working-dir> pip install notebook
+working-dir> jupyter nbconvert --to html --output file.html PYF_Project_LearnerNotebook_FullCode.ipynb
+
+working-dir> jupyter nbconvert --to html --output file.html SL_Full_Code.ipynb
+
+working-dir> jupyter nbconvert --to html --output file.html ETMT_Project_LearnerNotebook_FullCode_v2_Suresh_Pawar.ipyb
+
